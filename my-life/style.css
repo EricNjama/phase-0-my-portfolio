@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
+* {
+    margin-left: 0.5in;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: left;
+}
+body { 
+    background-color: lightslategray;
+    background-size: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+}
+h1 {
+    font-size: 10em;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-bottom: 0;
+}
+h2 {
+    font-size: xx-large;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-bottom: 1px;
+}
+p {
+    font-size: medium;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-bottom: 0px;
+    text-align: center;
+}
+footer {
+    background-color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
